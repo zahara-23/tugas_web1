@@ -52,9 +52,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
-.social-icon {
-  width: 15px;
-  height: 15px;
+.social-icon img{
+  width: 25px;
+  height: 25px;
   vertical-align: middle;
 }
 table {
@@ -74,3 +74,4 @@ footer {
   padding: 10px;
   margin-top: 20px;
 }
+
